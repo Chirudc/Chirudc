@@ -35,6 +35,8 @@ Data is key to business success, and I specialize in unlocking its full potentia
 <h3 id="ml_projects">Machine Learning Projects</h3>
 <p>Details about my machine learning projects...</p>
 
+<td><a href="ebooks.html" target="_blank">E-Books & Courses</a></td>
+
 ---
 
 ## **⚡ Tech Stack & Tools**  
