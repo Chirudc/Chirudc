@@ -18,8 +18,6 @@ Data is key to business success, and I specialize in unlocking its full potentia
         <th>Summary</th>
     </tr>
     <tr>
-        <td><a href="#ebooks">E-Books & Courses</a></td>
-        <td>My Free e-books and notes on data science and AI</td>
     </tr>
     <tr>
         <td><a href="#ml_projects">Machine Learning Projects</a></td>
