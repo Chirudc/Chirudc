@@ -11,27 +11,13 @@ Data is key to business success, and I specialize in unlocking its full potentia
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open Source & Projects</title>
-    <style>
-        html{scroll-behavior:smooth;}table{width:100%;border-collapse:collapse;margin-bottom:20px;}th,td{border:1px solid #ddd;padding:12px;text-align:left;}th{background-color:#222;color:white;}td a{text-decoration:none;color:blue;font-weight:bold;}td a:hover{text-decoration:underline;}section{padding:50px;border:1px solid #ddd;background-color:#f9f9f9;margin-top:20px;} .section{scroll-margin-top:80px;} .projects-container{display:flex;flex-wrap:wrap;gap:15px;} .project-card{width:48%;background:#222;color:white;padding:15px;border-radius:8px;border:1px solid #444;} .project-card a{color:#4ea8de;font-size:18px;font-weight:bold;text-decoration:none;} .project-card a:hover{text-decoration:underline;} .badge{background:gray;padding:4px 8px;border-radius:6px;font-size:12px;}
-    </style>
 </head>
 <body>
     <h2>Open Source & Projects 😎</h2>
     <table>
         <tr><th>Topic</th><th>Summary</th></tr>
-        <tr><td><a href="#ebooks">E-Books & Courses</a></td><td>My Free e-books and notes on data science and AI</td></tr>
         <tr><td><a href="#ml_projects">Machine Learning Projects</a></td><td>I developed multiple projects addressing real-world problems</td></tr>
     </table>
-    <section id="ebooks" class="section">
-        <h3>E-Books & Courses</h3>
-        <p>Here are my free e-books and notes on data science and AI...</p>
-        <a href="#">Back to Top</a>
     </section>
     <section id="ml_projects" class="section">
         <h3>Machine Learning Projects</h3>
