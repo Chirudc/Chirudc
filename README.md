@@ -2,7 +2,7 @@
 
 💡 Passionate about **Data Science, Analytics, and Big Data**  
 
-Data is key to business success, and I specialize in unlocking its full potential through analysis, engineering, and visualization. With expertise in Power BI, Python, and SQL, I transform complex datasets into actionable insights and build robust data pipelines. Completed a Postgraduate Diploma in Artificial Intelligence, I’m expanding my skills in machine learning and AI-driven solutions. I am passionate about leveraging data to drive informed decision-making and business growth.**  
+Data is key to business success, and I specialize in unlocking its full potential through analysis, engineering, and visualization. With expertise in Power BI, Python, and SQL, I transform complex datasets into actionable insights and build robust data pipelines. Completed a Postgraduate Diploma in Artificial Intelligence, I’m expanding my skills in machine learning and AI-driven solutions. I am passionate about leveraging data to drive informed decision-making and business growth.
 
 ---
 
@@ -11,26 +11,28 @@ Data is key to business success, and I specialize in unlocking its full potentia
 
 ---
 
-</head>
-<body>
-    <h2>Open Source & Projects 😎</h2>
-    <table>
-        <tr><th>Topic</th><th>Summary</th></tr>
-        <tr><td><a href="#ml_projects">Machine Learning Projects</a></td><td>I developed multiple projects addressing real-world problems</td></tr>
-    </table>
-    </section>
-    <section id="ml_projects" class="section">
-        <h3>Machine Learning Projects</h3>
-        <div class="projects-container">
-            <div class="project-card"><a href="https://github.com/Chirudc/Predicting_Vehicle_Fuel_Efficiency_Using_MachineLearning" target="_blank">Predicting Vehicle Fuel Efficiency Using Machine Learning</a><span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
-            <div class="project-card"><a href="https://github.com/yourrepo/breast-cancer" target="_blank">Breast Cancer Classification Using Machine Learning</a> <span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
-            <div class="project-card"><a href="https://github.com/yourrepo/sentiment-analysis" target="_blank">Text Classification and Sentiment Analysis on IMDb Reviews</a> <span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
-            <div class="project-card"><a href="https://github.com/yourrepo/kmeans-pca" target="_blank">Clustering Analysis Using K-Means and PCA</a> <span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
-        </div>
-        <a href="#">Back to Top</a>
-    </section>
-</body>
-</html>
+<h2 id="top">Analytics & Engineering Portfolio 📊</h2>
+
+<table>
+    <tr>
+        <th>Topic</th>
+        <th>Summary</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Chirudc/Iowa_Liquor_Retail_Sales_Project">Iowa Liquor Retail Sales Project</a></td>
+        <td>Liquor sales analysis, demand forecasting, and inventory optimization.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Chirudc/Machine_Learning">Machine Learning Projects</a></td>
+        <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Chirudc/ETL_Pipeline_Implementation_Using_Airflow_Kafka_and_Snowflake">ETL Pipeline Using Airflow, Kafka, and Snowflake</a></td>
+        <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
+    </tr>
+</table>
+
+<a href="#top">Back to Top</a>
 
 ---
 
