@@ -7,7 +7,7 @@ Data is key to business success, and I specialize in unlocking its full potentia
 ---
 
 ## **🌟 Connect With Me**
-- 🔗 **LinkedIn**: [Chiranjeevi Dhanala](www.linkedin.com/in/chiranjeevidhanala)  
+- 🔗 **LinkedIn**: [Chiranjeevi Dhanala](https://www.linkedin.com/in/chiranjeevidhanala/)
 
 ---
 
