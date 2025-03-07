@@ -1,6 +1,5 @@
 # **Hi 👋, I'm Chiranjeevi Dhanala**  
-🚀 **Data Analyst | Data Engineer | ML Practitioner**  
-📊 **Power BI | SQL | Python | Azure | PySpark | Snowflake**  
+
 💡 Passionate about **Data Science, Analytics, and Big Data**  
 
 Data is key to business success, and I specialize in unlocking its full potential through analysis, engineering, and visualization. With expertise in Power BI, Python, and SQL, I transform complex datasets into actionable insights and build robust data pipelines. Completed a Postgraduate Diploma in Artificial Intelligence, I’m expanding my skills in machine learning and AI-driven solutions. I am passionate about leveraging data to drive informed decision-making and business growth.**  
