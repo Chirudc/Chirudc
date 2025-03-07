@@ -11,6 +11,32 @@ Data is key to business success, and I specialize in unlocking its full potentia
 
 ---
 
+<h2>Open Source & Projects 😎</h2>
+<table border="1">
+    <tr>
+        <th>Topic</th>
+        <th>Summary</th>
+    </tr>
+    <tr>
+        <td><a href="#ebooks">E-Books & Courses</a></td>
+        <td>My Free e-books and notes on data science and AI</td>
+    </tr>
+    <tr>
+        <td><a href="#ml_projects">Machine Learning Projects</a></td>
+        <td>I developed multiple projects addressing real-world problems</td>
+    </tr>
+    <!-- Add more topics as needed -->
+</table>
+
+<!-- Sections -->
+<h3 id="ebooks">E-Books & Courses</h3>
+<p>Here are my free e-books and notes on data science and AI...</p>
+
+<h3 id="ml_projects">Machine Learning Projects</h3>
+<p>Details about my machine learning projects...</p>
+
+---
+
 ## **⚡ Tech Stack & Tools**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
