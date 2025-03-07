@@ -22,7 +22,7 @@ Data is key to business success, and I specialize in unlocking its full potentia
     <section id="ml_projects" class="section">
         <h3>Machine Learning Projects</h3>
         <div class="projects-container">
-            <div class="project-card"><a href="https://github.com/yourrepo/fuel-efficiency" target="_blank">Predicting Vehicle Fuel Efficiency Using Machine Learning</a> <span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
+            <div class="project-card"><a href="https://github.com/Chirudc/Predicting_Vehicle_Fuel_Efficiency_Using_MachineLearning" target="_blank">Predicting Vehicle Fuel Efficiency Using Machine Learning</a><span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
             <div class="project-card"><a href="https://github.com/yourrepo/breast-cancer" target="_blank">Breast Cancer Classification Using Machine Learning</a> <span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
             <div class="project-card"><a href="https://github.com/yourrepo/sentiment-analysis" target="_blank">Text Classification and Sentiment Analysis on IMDb Reviews</a> <span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
             <div class="project-card"><a href="https://github.com/yourrepo/kmeans-pca" target="_blank">Clustering Analysis Using K-Means and PCA</a> <span class="badge">Public</span><p>🟠 Jupyter Notebook</p></div>
