@@ -36,9 +36,6 @@ Data is key to business success, and I specialize in unlocking its full potentia
     <!-- ✅ This will now work correctly -->
     <a href="#top">🔼 Back to Top</a>
 
-</body>
-</html>
-
 ---
 
 ## **⚡ Tech Stack & Tools**  
