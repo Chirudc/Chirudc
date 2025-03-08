@@ -11,28 +11,33 @@ Data is key to business success, and I specialize in unlocking its full potentia
 
 ---
 
-<h2 id="top">Analytics & Engineering Portfolio 📊</h2>
+</head>
+<body>
+    <!-- ✅ Added ID for Back to Top to work -->
+    <h2 id="top">Analytics & Engineering Portfolio 🚀</h2>
+    <table>
+        <tr>
+            <th>Topic</th>
+            <th>Summary</th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/EDA_and_Inventory_Management" target="_blank">EDA and Inventory Management Project</a></td>
+            <td>Liquor sales analysis, demand forecasting, and inventory optimization.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Machine_Learning" target="_blank">Machine Learning Projects</a></td>
+            <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
+            <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
+        </tr>
+    </table>
+    <!-- ✅ This will now work correctly -->
+    <a href="#top">🔼 Back to Top</a>
 
-<table>
-    <tr>
-        <th>Topic</th>
-        <th>Summary</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Chirudc/Iowa_Liquor_Retail_Sales_Project">Iowa Liquor Retail Sales Project</a></td>
-        <td>Liquor sales analysis, demand forecasting, and inventory optimization.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Chirudc/Machine_Learning">Machine Learning Projects</a></td>
-        <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Chirudc/ETL_Pipeline_Implementation_Using_Airflow_Kafka_and_Snowflake">ETL Pipeline Using Airflow, Kafka, and Snowflake</a></td>
-        <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
-    </tr>
-</table>
-
-<a href="#top">Back to Top</a>
+</body>
+</html>
 
 ---
 
@@ -51,7 +56,6 @@ Data is key to business success, and I specialize in unlocking its full potentia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
- 
 </p>
 
 ---
