@@ -11,6 +11,23 @@ Data is key to business success, and I specialize in unlocking its full potentia
 
 ---
 
+# Analytics & Engineering Portfolio 🚀
+
+| Topic | Summary |
+|-------|---------|
+| [EDA and Inventory Management Project](https://github.com/Chirudc/Iowa_Liquor_Retail_Sales_Project) | Liquor sales analysis and inventory optimization. |
+| [Machine Learning Projects](https://github.com/Chirudc/Machine_Learning) | Supervised & Unsupervised ML projects (classification, clustering, forecasting). |
+| [Data Engineering Project](https://github.com/Chirudc/ETL_Pipeline_Implementation_Using_Airflow_Kafka_and_Snowflake) | ETL pipeline using Airflow, Kafka, and Snowflake. |
+
+🔼 [Back to Top](#analytics--engineering-portfolio-)
+ 
+
+
+
+
+
+
+
 </head>
 <body>
     <!-- ✅ Added ID for Back to Top to work -->
@@ -35,6 +52,9 @@ Data is key to business success, and I specialize in unlocking its full potentia
     </table>
     <!-- ✅ This will now work correctly -->
     <a href="#top">🔼 Back to Top</a>
+    
+</body>
+</html>
 
 ---
 
