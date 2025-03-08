@@ -29,6 +29,10 @@ Data is key to business success, and I specialize in unlocking its full potentia
             <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
         </tr>
         <tr>
+            <td><a href="https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/tree/main" target="_blank">Power BI Reporting Dashboard</a></td>
+            <td>Business intelligence 360 insights using Power BI for data visualization.</td>
+        <tr>
+        <tr>
             <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
             <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
         <tr>
