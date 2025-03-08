@@ -38,7 +38,7 @@ Data is key to business success, and I specialize in unlocking its full potentia
         <tr>
         <tr>
             <td><a href="https://github.com/Chirudc/Excel_Financial_Analytics_Project" target="_blank">Excel Finance Analytics Project</a></td>
-            <td>P&L analysis by fiscal year and market to assess growth, cost efficiency, and profitability.</td>
+            <td>P&L analysis by year and market to evaluate growth and profitability.</td>
         <tr>
         <tr>
             <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
