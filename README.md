@@ -59,7 +59,5 @@ Data is key to business success, and I specialize in unlocking its full potentia
 
 ---
 
-🎯 **Fun Fact:** *I love solving data challenges and making insights visually appealing!*  
-
 💡 *Always learning and exploring new technologies! 🚀*
 
