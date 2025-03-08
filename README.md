@@ -29,6 +29,10 @@ Data is key to business success, and I specialize in unlocking its full potentia
             <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
         </tr>
         <tr>
+            <td><a href="https://github.com/Chirudc/Deep_learning" target="_blank">Deep Learning Project</a></td>
+            <td>Building CNN Models and Fine-Tuning with Transfer Learning for Cats & Dogs Classification.</td>
+        <tr>
+        <tr>
             <td><a href="https://github.com/Chirudc/Power_BI_Dashboard_for_BI-360/tree/main" target="_blank">Power BI Reporting Dashboard</a></td>
             <td>Business intelligence 360 insights using Power BI for data visualization.</td>
         <tr>
