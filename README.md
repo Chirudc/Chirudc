@@ -31,6 +31,46 @@ Data is key to business success, and I specialize in unlocking its full potentia
         <tr>
             <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
             <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
+             </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Machine_Learning" target="_blank">Machine Learning Projects</a></td>
+            <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
+            <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
+             </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Machine_Learning" target="_blank">Machine Learning Projects</a></td>
+            <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
+            <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
+             </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Machine_Learning" target="_blank">Machine Learning Projects</a></td>
+            <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
+            <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
+             </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Machine_Learning" target="_blank">Machine Learning Projects</a></td>
+            <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
+            <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
+             </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Machine_Learning" target="_blank">Machine Learning Projects</a></td>
+            <td>Supervised & Unsupervised ML projects (classification, clustering, forecasting).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
+            <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
         </tr>
     </table>
     <!-- ✅ This will now work correctly -->
