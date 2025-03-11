@@ -48,6 +48,10 @@ Data is key to business success, and I specialize in unlocking its full potentia
             <td><a href="https://github.com/Chirudc/Data_Engineering" target="_blank">Data Engineering Project</a></td>
             <td>ETL pipeline with Airflow, Kafka streaming, and Snowflake.</td>
         <tr>
+        <tr>
+            <td><a href="https://github.com/Chirudc/End_to_End_Azure_Data_Engineering_Medallion_Architecture_Project">Azure Data Engineering Project</a></td>
+            <td>ETL pipeline with Azure Data Factory, Databricks & Data Lake for scalable analytics.</td>
+        <tr>
         </tr>
     </table>
     
