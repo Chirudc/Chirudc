@@ -41,7 +41,7 @@ Data is key to business success, and I specialize in unlocking its full potentia
             <td>P&L analysis by year and market to evaluate growth and profitability.</td>
         <tr>
         <tr>
-            <td><a href="https://github.com/Chirudc/Advanced_SQL_for_Business_Intelligence" target="_blank">SQL Advanced Projects</a></td>
+            <td><a href="https://github.com/Chirudc/Advanced_SQL_for_Business_Intelligence" target="_blank">Advanced SQL Projects</a></td>
             <td>Advanced SQL queries for data analysis, reporting, and business insights.</td>
         <tr>
         <tr>
