@@ -22,7 +22,7 @@ Data is key to business success, and I specialize in unlocking its full potentia
         </tr>
         <tr>
             <td><a href="https://github.com/Chirudc/Banking_customer_analytics_pipeline" target="_blank">Banking Customer Analytics end to end Project</a></td>
-            <td>End-to-end banking analytics project using Excel, SQL, Python (MySQL connection), and Power BI to deliver insights on customer segmentation, loan-deposit trends, risk profiling, and branch performance.</td>
+            <td>End-to-end banking analytics using Excel, SQL, Python, and Power BI for customer insights, risk profiling, and performance analysis.</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Chirudc/EDA_and_Inventory_Management" target="_blank">EDA and Inventory Management Project</a></td>
